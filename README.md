@@ -25,21 +25,16 @@ Below, you can see buttons that you can click to view more details about each te
 
 | **Technology** | **Action** |
 |----------------|------------|
-| **HTML5** 🟩 | [Learn More](#html5) |
-| **CSS3** 🔵 | [Learn More](#css3) |
-| **JavaScript** 🟡 | [Learn More](#javascript) |
-| **GitHub Pages** 🌐 | [Learn More](#github-pages) |
+| **HTML5** 🟩 | [Learn More](https://en.wikipedia.org/wiki/HTML5) |
+| **CSS3** 🔵 | [Learn More](https://en.wikipedia.org/wiki/CSS) |
+| **JavaScript** 🟡 | [Learn More](https://en.wikipedia.org/wiki/JavaScript) |
+| **GitHub Pages** 🌐 | [Learn More](https://en.wikipedia.org/w/index.php?fulltext=1&search=github+pages&title=Special%3ASearch&ns0=1) |
+
+---
 
 ![Portfolio Image](https://github.com/user-attachments/assets/f0b48324-f93f-4f44-bfe5-f9d216575ecf)
 
-### Scroll to Sections
-
-You can scroll down the page to see these sections in detail. Here are the buttons for easy navigation:
-
-- [HTML5 Details](#html5)
-- [CSS3 Details](#css3)
-- [JavaScript Details](#javascript)
-- [GitHub Pages Details](#github-pages)
+---
 
 ## 🛠️ Features
 
